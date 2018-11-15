@@ -1,0 +1,4 @@
+
+run-mailverteiler:
+  script: "./run-ci-debian-ldap-mail-distributor.sh"
+
